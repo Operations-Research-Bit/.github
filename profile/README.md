@@ -85,16 +85,3 @@ In practice, that means you should preserve notices, give credit where required,
 
 This summary is not a substitute for the full license text.  
 For legal details, always refer to the repository’s license file and the full license terms.
-
----
-
-If a repository has its own setup instructions, dependencies, or data requirements, follow that repository’s README first.  
-ORB is a collection of projects, so individual repos may have different run instructions and contribution rules.
-```
-
-## Suggested next step
-
-If you want, I can also turn this into:
-- a **more polished marketing-style README**,
-- a **more technical developer README**, or
-- a **README with badges, sections, and repo cards** ready to paste into GitHub.
