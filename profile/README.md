@@ -85,3 +85,10 @@ In practice, that means you should preserve notices, give credit where required,
 
 This summary is not a substitute for the full license text.  
 For legal details, always refer to the repository’s license file and the full license terms.
+
+## Support
+
+If you believe in ORB’s mission, please consider making a donation to support ongoing development.  
+Your contribution helps fund maintenance, new features, documentation, and AI-ready open-source tools for the community.
+
+Not able to donate? You can still support the project by starring repositories, sharing ORB with others, opening issues, and contributing improvements.
